@@ -72,7 +72,10 @@
 ### 🏆 Certifications & Achievements  
 - ✅ Completed **QA Automation Internship** at **Kernel Equity**  
 - ✅ Developed and tested **web & admin workflows using Playwright in Java**  
-- ✅ Built real-time **SSL certificate monitoring and notification systems**  
+- ✅ Built real-time **SSL certificate monitoring and notification systems**
+- ✅ Core Java Certified – Successfully completed a Core Java course, gaining expertise in OOP, multithreading, collections, and more.
+- ✅ Full-Stack Web Development – Built dynamic web applications using PHP, MySQL, HTML, CSS, JavaScript, and Bootstrap.
+- ✅ Database Management – Learned and implemented MySQL for efficient data handling in web applications.
 
 ---
 
